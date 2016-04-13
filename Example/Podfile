@@ -1,0 +1,15 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'RVRippleView_Example', :exclusive => true do
+  pod 'RVRippleView', :path => '../'
+end
+
+target 'RVRippleView_Tests', :exclusive => true do
+  pod 'RVRippleView', :path => '../'
+
+  pod 'Specta'
+  pod 'Expecta'
+  pod 'FBSnapshotTestCase'
+  pod 'Expecta+Snapshots'
+end
