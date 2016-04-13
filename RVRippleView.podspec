@@ -19,12 +19,12 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
                        DESC
 
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/RVRippleView"
+  s.homepage         = "https://github.com/ftp27/RVRippleView"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Aleksey Cherepanov" => "ftp27host@gmail.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/RVRippleView.git", :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => "https://github.com/ftp27/RVRippleView.git", :tag => s.version.to_s }
+  # s.social_media_url = 'https://twitter.com/ftp27'
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true

@@ -1,6 +1,6 @@
 # RVRippleView
 
-[![CI Status](http://img.shields.io/travis/Aleksey Cherepanov/RVRippleView.svg?style=flat)](https://travis-ci.org/Aleksey Cherepanov/RVRippleView)
+[![CI Status](http://img.shields.io/travis/ftp27/RVRippleView.svg?style=flat)](https://travis-ci.org/ftp27/RVRippleView)
 [![Version](https://img.shields.io/cocoapods/v/RVRippleView.svg?style=flat)](http://cocoapods.org/pods/RVRippleView)
 [![License](https://img.shields.io/cocoapods/l/RVRippleView.svg?style=flat)](http://cocoapods.org/pods/RVRippleView)
 [![Platform](https://img.shields.io/cocoapods/p/RVRippleView.svg?style=flat)](http://cocoapods.org/pods/RVRippleView)
